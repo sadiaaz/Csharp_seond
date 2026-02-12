@@ -104,3 +104,9 @@ C#
 .NET CLI
 
 xUnit Testing Framework
+
+👩‍💻 Author
+
+Sadia Saad
+BS Software Engineering Student
+Aspiring .NET Developer
